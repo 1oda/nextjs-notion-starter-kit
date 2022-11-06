@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'croak',
   domain: 'www.lodatang.com',
-  author: 'loda tang',
+  author: 'loda Tang',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
