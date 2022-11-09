@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'croak',
-  domain: 'www.lodatang.com',
+  name: 'Croak',
+  domain: 'lodatang.com',
   author: 'loda Tang',
 
   // open graph metadata (optional)
