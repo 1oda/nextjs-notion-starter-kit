@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://transitivebullsh.it/nextjs-notion-starter-kit">
-    ![image](https://user-images.githubusercontent.com/10447318/201385632-f98a0ed4-0a0a-41f1-8d58-6ca2cd8c6fe3.png)
-
+    <img alt="Home page" src="https://user-images.githubusercontent.com/10447318/201385853-2ddcb16e-c8d5-4b31-90e1-889112046937.png" width="689">
   </a>
 </p>
 
