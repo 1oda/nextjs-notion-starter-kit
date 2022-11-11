@@ -22,13 +22,13 @@ const getNavigationLinkPages = pMemoize(
         navigationLinkPageIds,
         async (navigationLinkPageId) =>
           notion.getPage(navigationLinkPageId, {
-            chunkLimit: 3,
+            chunkLimit: 50,
             fetchMissingBlocks: false,
             fetchCollections: false,
             signFileUrls: false
           }),
         {
-          concurrency: 3
+          concurrency: 5
         }
       )
     }
