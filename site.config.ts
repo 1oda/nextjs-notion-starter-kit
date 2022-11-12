@@ -56,14 +56,14 @@ export default siteConfig({
       title: 'About',
       pageId: '597b1b1465574370bd8d5d32f7b9e65d'
     },
-    {
-      title: 'Posts',
-      pageId: '23f02b6a347243ef9f269673a741db71'
-    },
-    {
-      title: 'Music',
-      pageId: 'b8473e26e93945c1bba36105c4f09747'
-    },
+    // {
+    //   title: 'Posts',
+    //   pageId: '23f02b6a347243ef9f269673a741db71'
+    // },
+    // {
+    //   title: 'Music',
+    //   pageId: 'b8473e26e93945c1bba36105c4f09747'
+    // },
     {
       title: 'Contact',
       pageId: '8252bc90ba484a4ea2c5123c0256d258'
