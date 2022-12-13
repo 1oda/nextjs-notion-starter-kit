@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://lodatang.com">
-    <img alt="Loda Tang's blog" src="https://user-images.githubusercontent.com/10447318/201476808-cf9b0d38-e7fb-4066-b317-caf7062c9b06.png" width="689">
+    <img alt="Loda Tang's blog" src="https://user-images.githubusercontent.com/10447318/207367618-e2b30b0e-0aa9-4ced-a3f9-abd21f501091.png" width="689">
   </a>
 </p>
 
