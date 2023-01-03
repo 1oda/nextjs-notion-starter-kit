@@ -13,7 +13,16 @@ module.exports = withBundleAnalyzer({
       'pbs.twimg.com',
       'abs.twimg.com',
       's3.us-west-2.amazonaws.com',
-      'transitivebullsh.it'
+      'transitivebullsh.it',
+      'lodatang.com',
+      'loda.notion.site',
+      'vercel.app',
+      'www.iconfinder.com',
+      'music.163.com',
+      'github.com',
+      'qq.com',
+      'steamcommunity.com',
+      'open.spotify.com'
     ],
     formats: ['image/avif', 'image/webp'],
     dangerouslyAllowSVG: true,
