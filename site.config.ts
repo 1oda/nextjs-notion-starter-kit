@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Croak',
   domain: 'www.lodatang.com',
-  author: 'loda Tang',
+  author: 'Loda Tang',
 
   // open graph metadata (optional)
   description: 'Loda Tang‘s blog',
