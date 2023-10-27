@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://lodatang.com">
-    <img alt="Loda Tang's blog" src="https://user-images.githubusercontent.com/10447318/207367842-e1520c0d-a1be-47b2-8df0-60f855371015.png" width="689">
+    <img alt="Loda Tang's blog" src="https://github.com/loda13/nextjs-notion-starter-kit/assets/10447318/9f987af8-75e9-463d-9740-f7965644f6be" width="1112">
   </a>
 </p>
 
@@ -9,4 +9,3 @@
 https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 
 > The perfect starter kit for building websites with Next.js and Notion.
-
